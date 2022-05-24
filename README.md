@@ -1,7 +1,7 @@
 # hangman
 This is the a simulation of the game Hangman, created using Python.
 
-The user has to guess the word correctly, and they have 6 lives for that. 
+A word is chosen randomly, and the user has to guess it correctly. They have 6 lives for that. 
 
 Each **wrong guess** costs them a life. 
 
